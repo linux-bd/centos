@@ -1,5 +1,6 @@
 ## [Centos Remote Desktop Connection](https://www.youtube.com/watch?v=zjt1-7Msscs)
 
+* [runlevel -> graphical.target](https://www.freedesktop.org/software/systemd/man/runlevel.html)
 * [chcon](https://unix.stackexchange.com/questions/274360/chcon-cant-apply-partial-context-to-unlabeled-file-usr-sbin-xrdp)
 
 ```sh
